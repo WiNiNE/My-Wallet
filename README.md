@@ -1,0 +1,2 @@
+# My-Wallet
+The proposed project is to implement a Mobile based financial planning management system. This proposed project will handle all the bill payments and finance matters of households. The Financial planning management system has most facilities that a person need to keep track of the financials, bill payments and reminders. Usually all the functions and finance managements with in the households are carried out by manually and it is very cumbersome and has given rise to many difficulties in day-to-day activities. 
